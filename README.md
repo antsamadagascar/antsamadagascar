@@ -43,26 +43,29 @@ Je suis **RATOVONANDRASANA Aina Ny Antsa**, développeur fullstack qui ne se con
 </div>
 
 ---
-
 ## 📊 **Mes Statistiques GitHub**
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antsamadagascar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antsamadagascar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
 </div>
 
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=antsamadagascar&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com/demolab/?user=antsamadagascar&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=tokyo-night&hide_border=true&cache_seconds=86400" alt="Activity Graph"/>
+</div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=tokyo-night)
+### 📈 **Contribution Summary**
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antsamadagascar&theme=tokyonight" alt="Profile Summary"/>
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antsamadagascar&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antsamadagascar&theme=tokyonight" alt="Most Commit Language"/>
 </div>
 
 ---
