@@ -18,13 +18,16 @@
 ## <div align="center">🎭 Who Am I? - Mon Univers Digital</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=4500&pause=1200&color=FF6B6B&center=true&vCenter=true&width=900&lines=💡+%22I+see+patterns+where+others+see+walls+🧠+—+there's+always+a+way+if+you+think+differently.%22" />
-</div>
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=🎯+Fullstack+Developer+%26+Pattern+Seeker;☁️+DevOps+Engineer+%26+Cloud+Architect;🧠+I+see+solutions+where+others+see+problems;🚀+Turning+constraints+into+innovation;✨+Welcome+to+my+digital+universe!)
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
+
+</div>
 <div align="center">
   <table>
     <tr>
