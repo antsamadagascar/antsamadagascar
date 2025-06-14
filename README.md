@@ -1,4 +1,16 @@
-# <div align="center">🚀 **Ny Antsa** - Digital Architect & Code Craftsman</div>
+
+---
+# <div align="center">🌌 **Ny Antsa** - Digital Alchemist & Code Virtuoso 🌌</div>
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,6,30,26&height=300&section=header&text=WELCOME%20TO%20THE%20MATRIX&fontSize=40&fontColor=fff&animation=blinking&stroke=00ff41&strokeWidth=2&fontAlignY=40&desc=Where%20Imagination%20Meets%20Innovation&descSize=20&descAlignY=60"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=500&color=00ff41&background=000000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%8C%9F+class+CodeAlchemist+%7B;++%E2%9A%A1+transform(ideas)+%3D%3E+reality;++%F0%9F%9A%80+deploy(dreams)+%3D%3E+applications;++%F0%9F%A7%A0+solve(impossible)+%3D%3E+elegant_solutions;++%F0%9F%94%A5+status+%3D+%22Always+Innovating%22;%7D;%E2%9C%A8+new+CodeAlchemist(%22Ny+Antsa%22).create();">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2000&pause=500&color=00ff41&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%8C%9F+class+CodeAlchemist+%7B;++%E2%9A%A1+transform(ideas)+%3D%3E+reality;++%F0%9F%9A%80+deploy(dreams)+%3D%3E+applications;++%F0%9F%A7%A0+solve(impossible)+%3D%3E+elegant_solutions;++%F0%9F%94%A5+status+%3D+%22Always+Innovating%22;%7D;%E2%9C%A8+new+CodeAlchemist(%22Ny+Antsa%22).create();" alt="Typing SVG" />
+  </picture>
+
 
 <div align="center">
   
@@ -8,7 +20,7 @@
 
 </div>
 
----
+
 
 ## <div align="center">🎭 **Who Am I?**</div>
 
@@ -144,7 +156,6 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -196,7 +207,7 @@
 
 ---
 
-## <div align="center">📊 **Performance Matrix & Analytics**</div>
+## <div align="center">📊 **Performance  & Analytics**</div>
 
 <div align="center">
   
@@ -280,79 +291,73 @@ console.log("Ready to build something amazing together! 🚀");
 
 ## <div align="center">🤝 **Connect with the Digital Alchemist**</div>
 
-<div align="center">
 
-### 🌐 **Digital Presence Network**
-
-<table>
-<tr>
-<td align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:antsamadagascar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aina-ny-antsa-ratovonandrasana)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+261385497169)
-
-</td>
-<td align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://nyantsa.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/nyantsa_dev)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000)](https://medium.com/@nyantsa)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-### 🎯 **Collaboration Opportunities**
+# 🎓 **Opportunités de Collaboration Étudiant**
 
 <div align="center">
 
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 🚀 **Innovation**
-🔬 **R&D Projects**  
-🧪 **Proof of Concepts**  
-💡 **Startup Ventures**  
-🌟 **Disruptive Solutions**
-
-</td>
-<td width="25%" align="center">
-
-### 🤝 **Collaboration**  
-⚡ **Open Source**  
-🎨 **Creative Projects**  
-🌍 **Global Teams**  
-💻 **Hackathons**
-
-</td>
-<td width="25%" align="center">
-
-### 📈 **Growth**
-☁️ **Cloud Architecture**  
-🔧 **DevOps Excellence**  
-👥 **Tech Leadership**  
-📚 **Knowledge Sharing**
-
-</td>
-<td width="25%" align="center">
-
-### 🌟 **Impact**
-🏢 **Enterprise Solutions**  
-🎯 **Performance Optimization**  
-🔒 **Security Hardening**  
-📊 **Data Analytics**
-
-</td>
-</tr>
-</table>
+| 📚 **Apprentissage** | 🤝 **Collaboration** | 🚀 **Évolution** | 💡 **Innovation** |
+|:---:|:---:|:---:|:---:|
+| 📖 **Projets Académiques** | 👥 **Équipes Étudiantes** | 🌱 **Développement Personnel** | 🧪 **Projets Expérimentaux** |
+| 💻 **Coding Bootcamps** | 🎯 **Hackathons Étudiants** | 📈 **Montée en Compétences** | 🔬 **Recherche Appliquée** |
+| 🏆 **Compétitions Tech** | 🌐 **Communautés Open Source** | 🎪 **Stages & Alternances** | 💭 **Idées Créatives** |
+| 🎨 **Projets Créatifs** | 🤖 **Clubs Informatique** | 🎓 **Mentoring** | 🌟 **Startup Étudiante** |
 
 </div>
 
 ---
+
+## 🌟 **Mon Parcours d'Évolution**
+
+### 📚 **Phase Apprentissage** (Actuellement)
+- 🏫 **Formation** - Études en cours en It University Madagascar
+- 📖 **Cours en Ligne** - Autodidacte , stackOverflow, OpenClassrooms
+- 💻 **Projets Personnels** - Applications web, scripts, automatisations
+- 🎯 **Objectifs** - Maîtriser les fondamentaux et bonnes pratiques
+
+### 🚀 **Phase Développement** (6-12 mois)
+- 🔧 **Technologies Cibles** - React Native,Vue Js, PHP,JAVA,Cloud
+- 🏢 **Stages** - Recherche d'opportunités en entreprise
+- 🌐 **Réseau** - Participation à des meetups et conférences
+- 📊 **Portfolio** - Création d'un portfolio professionnel
+
+### 🏢 **Opportunités Professionnelles**
+- 🎪 **Stages** - Développement web, Web Services, Architecture logicielles
+- 💼 **Alternance** - Recherche d'entreprises pour formation en alternance
+- 🤝 **Mentorat** - Besoin de mentors expérimentés dans le domaine
+- 🌟 **Freelance** - Petites missions pour acquérir de l'expérience
+
+---
+
+
+**💬 "En apprentissage constant, prêt à relever de nouveaux défis !"**
+
+</div>
+
+---
+
+## 🎓 **Mes Domaines d'Intérêt**
+
+```mermaid
+graph TB
+    A[🎓 Étudiant Développeur] --> B[📱 Mobile]
+    A --> C[🌐 Web]
+    A --> D[🤖 IA/ML]
+    A --> E[☁️ Cloud]
+    
+    B --> B1[React Native]
+    B --> B2[Flutter]
+    
+    C --> C1[Frontend Vue Js]
+    C --> C2[Backend Java]
+    C --> C3[Backend PHP]
+    
+    D --> D1[Python ML]
+    D --> D2[Computer Vision]
+    
+    E --> E1[Google CLoud]
+    E --> E2[DevOps]
+```
 
 <div align="center">
   
@@ -368,7 +373,28 @@ console.log("Ready to build something amazing together! 🚀");
   
 
 </div>
+<div align="center">
 
+### 🌐 **Digital Presence Network**
+
+<table>
+<tr>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:antsamadagascar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/aina-ny-antsa-ratovonandrasana)
+[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+261385497169)
+
+</td>
+<td align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/nyantsa_dev)
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 <div align="center">
   
@@ -382,7 +408,6 @@ console.log("Ready to build something amazing together! 🚀");
   
 </div>
 
----
 
 <div align="center">
   
