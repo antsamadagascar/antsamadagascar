@@ -91,7 +91,7 @@ Profil_Etudiant:
   <a href="https://github.com/antsamadagascar">
     <img src="https://img.shields.io/badge/🎓_ÉTUDIANT-3ème_ANNÉE-FF6B6B?style=for-the-badge&labelColor=1a1a2e" />
   </a>
-  <a href="mailto:nyantsa.ratovo@gmail.com">
+  <a href="mailto:antsamadagascar@gmail.com">
     <img src="https://img.shields.io/badge/💼_RECHERCHE-STAGE-00ff41?style=for-the-badge&labelColor=1a1a2e" />
   </a>
   <a href="https://github.com/antsamadagascar">
@@ -351,7 +351,7 @@ graph TB
 </div>
 
 <div align="center">
-  <a href="mailto:nyantsa.ratovo@gmail.com">
+  <a href="mailto:antsamadagascar@gmail.com">
     <img src="https://img.shields.io/badge/📧_CONTACT-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" />
   </a>
   <a href="https://www.linkedin.com/in/aina-ny-antsa-ratovonandrasana">
