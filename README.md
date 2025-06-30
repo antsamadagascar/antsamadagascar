@@ -1,11 +1,11 @@
 <!-- Header avec animation de vague -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Ny%20Antsa%20RATOVONANDRASANA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Fullstack%20Junior%20|%20Étudiant%20IT%20University&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=Ny%20Antsa%20RATOVONANDRASANA&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Développeur%20Fullstack%20Junior&descAlignY=51&descAlign=50" />
 </div>
 
 <!-- Badges professionnels -->
 <div align="center">
-  <img alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f861f1681b469927cc87/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+<img alt="Developer" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </div>
 
 <br>
@@ -28,9 +28,9 @@
 
 **💫 Développeur Fullstack Junior passionné**
 
-Étudiant en génie logiciel à IT University Madagascar, je découvre et apprends le monde fascinant du développement web. Passionné par la création d'applications modernes, je développe mes compétences techniques jour après jour.
+Étudiant en génie logiciel à IT University Madagascar, je me spécialise dans le développement d'applications web modernes. Passionné par l'apprentissage continu, j'aime relever de nouveaux défis techniques et créer des solutions digitales fonctionnelles.
 
-**🎯 Mon objectif :** Maîtriser les technologies web modernes et contribuer à des projets innovants tout en continuant d'apprendre et de grandir professionnellement.
+**🎯 Mon objectif :** Maîtriser les technologies web modernes et contribuer à des projets innovants en équipe tout en développant mes compétences techniques.
 
 </td>
 <td>
@@ -41,9 +41,9 @@
   "âge": "En formation continue",
   "localisation": "Antananarivo, Madagascar",
   "rôle": "Développeur Fullstack Junior",
-  "passion": "Apprentissage & Développement Web",
-  "objectif": "Devenir un développeur accompli",
-  "motto": "Apprendre, coder, grandir"
+  "passion": "Apprentissage & Développement",
+  "objectif": "Expertise technique",
+  "motto": "Learn, code, grow, repeat"
 }
 ```
 
@@ -106,65 +106,38 @@
 
 ---
 
-## 🎯 Domaines d'Apprentissage
+## 🎓 Formation & Compétences
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 📚 En cours d'apprentissage
+<p>
+  <img src="https://img.shields.io/badge/Advanced_React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_REST-009688?style=for-the-badge&logo=api&logoColor=white" />
+</p>
 
-**🎨 Frontend**
-<br>
-*Interfaces utilisateur*
-<br>
-Vue.js, React, JavaScript
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ Backend**
-<br>
-*Logique serveur*
-<br>
-Java, PHP, Spring Boot
-
-</td>
-<td align="center" width="25%">
-
-**🗄️ Données**
-<br>
-*Bases de données*
-<br>
-MySQL, PostgreSQL
-
-</td>
-<td align="center" width="25%">
-
-**🔧 Outils**
-<br>
-*Développement*
-<br>
-Git, Docker, VS Code
-
-</td>
-</tr>
-</table>
+### 🎯 Objectifs 2025
+- Maîtrise approfondie de Spring Boot
+- Développement d'applications React avancées
+- Participation à des projets open source
+- Amélioration des pratiques DevOps
 
 </div>
 
 ---
 
-## 📚 Projets d'Apprentissage
+## 💻 Expérience Pratique
 
 <div align="center">
 
-| 📖 Projet | 🎯 Objectif | 📅 Période |
-|-----------|-------------|------------|
-| **🛒 Daily-Expenses** | Maîtriser LiveWire + Laravel | Projet Personnels |
-| **📝 API de Gestion** | Apprendre Spring Boot | En cours |
-| **🎨 Portfolio Personnel** | Pratiquer React | Récent |
-| **📊 Dashboard Admin** | Intégrer frontend/backend | Planifié |
+| 🎓 Type | 📝 Description | 🔧 Technologies | 📅 Période |
+|---------|----------------|-----------------|------------|
+| **Projet Universitaire** | Application de gestion d'étudiants | Vue.js + Laravel | 2024 |
+| **Mini-Projet** | API REST pour blog | Spring Boot + MySQL | 2024 |
+| **Exercice Personnel** | Portfolio responsive | HTML/CSS/JS | 2023 |
+| **Formation** | Découverte React & hooks | React + Vite | 2024 |
 
 </div>
 
@@ -182,70 +155,43 @@ Git, Docker, VS Code
 
 ---
 
-## 💡 Philosophie de Développement
-
-<div align="center">
-
-> *"Le code propre n'est pas écrit en suivant un ensemble de règles. On reconnait le code propre en lisant quelqu'un qui s'en souciait."*
-> 
-> **— Robert C. Martin**
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**🎯 Clean Code**
-<br>
-*Code lisible et maintenable*
-
-</td>
-<td align="center" width="33%">
-
-**⚡ Performance**
-<br>
-*Optimisation constante*
-
-</td>
-<td align="center" width="33%">
-
-**🔒 Sécurité**
-<br>
-*Sécurité by design*
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Parcours & Formation
+## 🌱 Parcours d'Apprentissage
 
 <div align="center">
 
 ```mermaid
 timeline
-    title Mon Parcours Développeur
-    2022 : Début études IT
-         : Découverte programmation
-         : Premiers pas HTML/CSS
-         : Apprentissage Frontend
-         : Vue.js & JavaScript
-         : Projets étudiants
+    title Mon Évolution en Développement
     
-    2023 : Découverte Backend
+    2022 : Premiers pas
+         : HTML/CSS/JavaScript
+         : Découverte du web
+    
+    2023 : Frontend focus
+         : Vue.js apprentissage
+         : Projets universitaires
+    
+    2024 : Fullstack transition
          : Java & Spring Boot
          : Bases de données
     
-    2024 : Développement Fullstack
-         : Intégration complète
-         : Projets universitaires
-    
-    2025 : Perfectionnement
+    2025 : Spécialisation
+         : React & APIs avancées
          : IT University Madagascar
-         : Recherche d'opportunités
 ```
+
+</div>
+
+### 🎯 Compétences en Développement
+
+<div align="center">
+
+| Domaine | Niveau | Expérience |
+|---------|--------|------------|
+| **Frontend** | 🟢🟢🟢⚪⚪ | 2 ans |
+| **Backend** | 🟢🟢🟡⚪⚪ | 1.5 ans |
+| **Bases de données** | 🟢🟢🟡⚪⚪ | 1 an |
+| **DevOps** | 🟢🟡⚪⚪⚪ | Débutant |
 
 </div>
 
@@ -255,7 +201,7 @@ timeline
 
 <div align="center">
 
-### 💬 Étudiant motivé, toujours prêt à apprendre et à contribuer !
+### 💬 Passionné par l'apprentissage et les défis techniques
 
 <p>
   <a href="mailto:antsamadagascar@gmail.com">
@@ -269,12 +215,11 @@ timeline
   </a>
 </p>
 
-### 🤝 Ouvert aux opportunités :
-- Stages de développement web
-- Projets étudiants collaboratifs
+### 🤝 Ouvert à :
+- Stages et opportunités junior
+- Projets collaboratifs étudiants
 - Mentorat et apprentissage
-- Discussions techniques
-- Premières expériences professionnelles
+- Contributions open source débutant
 
 </div>
 
@@ -287,5 +232,5 @@ timeline
 
 <div align="center">
   <h3>✨ Merci de votre visite ! ✨</h3>
-  <p><em>N'hésitez pas à explorer mes repositories d'apprentissage et à me contacter !</em></p>
+  <p><em>N'hésitez pas à explorer mes repositories et à me contacter pour échanger sur le développement !</em></p>
 </div>
