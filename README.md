@@ -33,21 +33,6 @@
 **🎯 Mon objectif :** Maîtriser les technologies web modernes et contribuer à des projets innovants en équipe tout en développant mes compétences techniques.
 
 </td>
-<td>
-
-```json
-{
-  "nom": "Ny Antsa RATOVONANDRASANA",
-  "âge": "En formation continue",
-  "localisation": "Antananarivo, Madagascar",
-  "rôle": "Développeur Fullstack Junior",
-  "passion": "Apprentissage & Développement",
-  "objectif": "Expertise technique",
-  "motto": "Learn, code, grow, repeat"
-}
-```
-
-</td>
 </tr>
 </table>
 
