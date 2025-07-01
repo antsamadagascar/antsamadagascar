@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/github/followers/antsamadagascar?label=Followers&style=for-the-badge&color=2b5797" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=antsamadagascar&style=for-the-badge&color=2b5797" />
-  <img src="https://img.shields.io/badge/Disponible-Opportunités%20Junior-brightgreen?style=for-the-badge" />
 </div>
 
 ---
@@ -73,6 +72,11 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 
 ## 📈 Statistiques GitHub
 <div align="center">
+  
+<div align="center">
+  <!-- Graphique d'activité 2025 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=react-dark&bg_color=0d1117&line=2b5797&point=1e3c72&area=true&hide_border=true" width="100%" />
+</div>
   <!-- Statistiques générales -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&count_private=true&theme=default&hide_border=false&title_color=2b5797&icon_color=1e3c72&text_color=000000&bg_color=ffffff" width="100%" />
 </div>
@@ -87,11 +91,6 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=default&hide_border=true" />
 </div>
 
-
-<div align="center">
-  <!-- Graphique d'activité 2025 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=react-dark&bg_color=0d1117&line=2b5797&point=1e3c72&area=true&hide_border=true" width="100%" />
-</div>
 ---
 
 ## 📬 Me contacter
