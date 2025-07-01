@@ -26,25 +26,25 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 ## 🧰 Stack technique
 
 ### Langages & Frameworks
-- Java / Spring Boot / Spring Security / Java Servlet Page (JSP) / WildFly
-- PHP / Laravel / Livewire / Codeigniter 3
-- C# / .NET Core / ASPNET
-- JavaScript / Vue.js / React
-- Framework Frappe Python 
+- <img src="https://skillicons.dev/icons?i=java" width="20"/> Java / <img src="https://skillicons.dev/icons?i=spring" width="20"/> Spring Boot / <img src="https://skillicons.dev/icons?i=spring" width="20"/> Spring Security / JSP / WildFly
+- <img src="https://skillicons.dev/icons?i=php" width="20"/> PHP / <img src="https://skillicons.dev/icons?i=laravel" width="20"/> Laravel / <img src="https://skillicons.dev/icons?i=livewire" width="20"/> Livewire / <img src="https://skillicons.dev/icons?i=codeigniter" width="20"/> CodeIgniter 3
+- <img src="https://skillicons.dev/icons?i=cs" width="20"/> C# / <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> .NET Core / <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> ASP.NET
+- <img src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript / <img src="https://skillicons.dev/icons?i=vue" width="20"/> Vue.js / <img src="https://skillicons.dev/icons?i=react" width="20"/> React
+- <img src="https://skillicons.dev/icons?i=python" width="20"/> Framework Frappe Python
 
 ### Web & API
-- Frontend : Vue.js, React, HTML5, CSS3
-- Backend : Laravel, Spring Boot, .NET
-- API : RESTful, JWT, sécurisation middleware
+- **Frontend** : <img src="https://skillicons.dev/icons?i=vue" width="20"/> Vue.js, <img src="https://skillicons.dev/icons?i=react" width="20"/> React, <img src="https://skillicons.dev/icons?i=html" width="20"/> HTML5, <img src="https://skillicons.dev/icons?i=css" width="20"/> CSS3
+- **Backend** : <img src="https://skillicons.dev/icons?i=laravel" width="20"/> Laravel, <img src="https://skillicons.dev/icons?i=spring" width="20"/> Spring Boot, <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> .NET
+- **API** : RESTful, JWT, sécurisation middleware
 
 ### Base de données
-- MySQL, PostgreSQL, Oracle
+- <img src="https://skillicons.dev/icons?i=mysql" width="20"/> MySQL, <img src="https://skillicons.dev/icons?i=postgresql" width="20"/> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20"/> Oracle
 - Modélisation, requêtes SQL optimisées
 
 ### DevOps & outils
-- Docker, Git, GitHub, Firebase
-- IDE : VS Code, Apache NetBeans
-- Systèmes : Linux (Ubuntu), Windows
+- <img src="https://skillicons.dev/icons?i=docker" width="20"/> Docker, <img src="https://skillicons.dev/icons?i=git" width="20"/> Git, <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub, <img src="https://skillicons.dev/icons?i=firebase" width="20"/> Firebase
+- **IDE** : <img src="https://skillicons.dev/icons?i=vscode" width="20"/> VS Code, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="20"/> Apache NetBeans
+- **Systèmes** : <img src="https://skillicons.dev/icons?i=linux" width="20"/> Linux (<img src="https://skillicons.dev/icons?i=ubuntu" width="20"/> Ubuntu), <img src="https://skillicons.dev/icons?i=windows" width="20"/> Windows
 
 ---
 
