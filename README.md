@@ -75,18 +75,19 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 
 <div align="center">
   <!-- Statistiques générales -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&count_private=true&theme=blue-green&hide_border=false&title_color=2b5797&icon_color=1e3c72&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&count_private=true&theme=default&hide_border=false&title_color=2b5797&icon_color=1e3c72&text_color=000000&bg_color=ffffff" width="48%" />
 
   <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&theme=blue-green&hide_border=false&title_color=2b5797&text_color=ffffff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&theme=default&hide_border=false&title_color=2b5797&text_color=000000&bg_color=ffffff" width="48%" />
 </div>
 
 <br>
 
 <!-- Streak GitHub -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=blue-green&hide_border=false&ring=2b5797&fire=1e3c72&currStreakLabel=2b5797&background=0d1117" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=default&hide_border=false&background=ffffff&ring=2b5797&fire=1e3c72&currStreakLabel=2b5797&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" width="60%" />
 </div>
+
 
 ---
 
