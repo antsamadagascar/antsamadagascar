@@ -26,10 +26,11 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 ## 🧰 Stack technique
 
 ### Langages & Frameworks
-- Java / Spring Boot / Spring Security
-- PHP / Laravel / Livewire
+- Java / Spring Boot / Spring Security / Java Servlet Page (JSP) / WildFly
+- PHP / Laravel / Livewire / Codeigniter 3
 - C# / .NET Core / ASPNET
 - JavaScript / Vue.js / React
+- Framework Frappe Python 
 
 ### Web & API
 - Frontend : Vue.js, React, HTML5, CSS3
@@ -64,7 +65,7 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 - CI/CD & déploiement avec Docker
 
 ### En exploration :
-- Cloud (GCP, Firebase)
+- Cloud (GCP, Firebase,Google CLoud console)
 - Architecture orientée services (Clean Architecture)
 - TDD et tests automatisés
 
