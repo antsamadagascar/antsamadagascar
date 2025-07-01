@@ -44,7 +44,7 @@ Actuellement en 3ème année d'Informatique à IT University Madagascar, je me s
 **Outils et environnement**
 - Conteneurisation: Docker
 - Contrôle de version: Git, GitHub
-- IDEs: VS Code, IntelliJ IDEA
+- IDEs: VS Code, Apache NetBeans
 - Systèmes: Linux, Windows
 
 ---
@@ -88,7 +88,10 @@ En tant qu'étudiant, je travaille constamment sur des projets qui me permettent
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=default&hide_border=true" />
 </div>
 
-
+Activité GitHub 2025
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=github-compact&bg_color=ffffff&hide_border=true&point=2b5797&line=1e3c72&color=000000&custom_title=Contributions%20GitHub%202025" />
+</div>
 ## Contact professionnel
 
 <div align="center">
