@@ -28,7 +28,7 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 ### Langages & Frameworks
 - Java / Spring Boot / Spring Security
 - PHP / Laravel / Livewire
-- C# / .NET Core
+- C# / .NET Core / ASPNET
 - JavaScript / Vue.js / React
 
 ### Web & API
@@ -41,7 +41,7 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 - Modélisation, requêtes SQL optimisées
 
 ### DevOps & outils
-- Docker, Git, GitHub
+- Docker, Git, GitHub, Firebase
 - IDE : VS Code, Apache NetBeans
 - Systèmes : Linux (Ubuntu), Windows
 
