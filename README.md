@@ -71,24 +71,25 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 ---
 
 ## 📈 Statistiques GitHub
+
 <div align="center">
   
+<!-- Graphique d'activité -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=github-compact&bg_color=ffffff&hide_border=true&point=2b5797&line=1e3c72&color=000000&custom_title=Contributions%20GitHub%20en%202025" width="100%" />
+
+<br><br>
+
+<!-- Statistiques principales -->
 <div align="center">
-  <!-- Graphique d'activité 2025 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&theme=react-dark&bg_color=0d1117&line=2b5797&point=1e3c72&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&count_private=true&theme=default&hide_border=false&title_color=2b5797&icon_color=1e3c72&text_color=000000&bg_color=ffffff" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=default&hide_border=false&stroke=2b5797&ring=2b5797&fire=1e3c72&currStreakLabel=2b5797" width="49%" />
 </div>
-  <!-- Statistiques générales -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&count_private=true&theme=default&hide_border=false&title_color=2b5797&icon_color=1e3c72&text_color=000000&bg_color=ffffff" width="100%" />
-</div>
+
 <br>
-<div align="center">
-  <!-- Langages les plus utilisés -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&theme=default&hide_border=false&title_color=2b5797&text_color=000000&bg_color=ffffff" width="100%" />
-</div>
-<br>
-<!-- Streak GitHub -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=default&hide_border=true" />
+
+<!-- Langages les plus utilisés -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&theme=default&hide_border=false&title_color=2b5797&text_color=000000&bg_color=ffffff" width="60%" />
+
 </div>
 
 ---
