@@ -16,10 +16,12 @@
 
 ## 👨‍🎓 À propos
 
-Étudiant en **3ᵉ année parcours Développement** à **IT University Madagascar**, je suis passionné par la conception d’applications web modernes et efficaces.  
-Je développe activement mes compétences en **frontend**, **backend** et **base de données** à travers des projets concrets.
+Développeur Fullstack Junior et étudiant en 3ᵉ année Informatique à IT University Madagascar, je suis actuellement le parcours Développement.
 
----
+Passionné par la découverte des technologies émergentes, j’explore activement le domaine de l’intelligence artificielle, ainsi que le développement d’applications web et mobiles.
+
+Je me concentre actuellement sur l’apprentissage avancé de .NET, Java (Spring Boot), Laravel, React, Livewire, les web services sécurisés, le cloud computing et Oracle, afin de renforcer mes compétences backend et maîtriser des architectures modernes.
+
 
 ## 🚀 Stack Technique
 
@@ -53,9 +55,12 @@ Je développe activement mes compétences en **frontend**, **backend** et **base
 ### DevOps & Outils
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 
 </div>
 
@@ -64,12 +69,18 @@ Je développe activement mes compétences en **frontend**, **backend** et **base
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&theme=radical&hide_border=true" width="48%" />
+
+  <!-- Statistiques globales -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=antsamadagascar&show_icons=true&theme=ocean_dark&count_private=true&include_all_commits=true&hide_border=true&title_color=4FC3F7&text_color=B3E5FC&icon_color=29B6F6&bg_color=0d1117&custom_title=🌊%20Statistiques%20globales%20depuis%20le%20début" width="48%" />
+
+  <!-- Langages principaux -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=antsamadagascar&layout=compact&theme=ocean_dark&hide_border=true&title_color=4FC3F7&text_color=B3E5FC&bg_color=0d1117&custom_title=🌐%20Langages%20les%20plus%20utilisés" width="48%" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=radical&hide_border=true" />
+  <!-- Streak (continuité de contribution) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antsamadagascar&theme=ocean-dark&hide_border=true&background=0d1117&currStreakLabel=4FC3F7&sideLabels=B3E5FC&fire=29B6F6&ring=4FC3F7&dates=B3E5FC" />
 </div>
 
 ---
