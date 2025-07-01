@@ -22,31 +22,77 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 🎯 **Objectif actuel** : maîtriser les architectures modernes, améliorer la sécurité des applications et monter en compétence sur les technologies back-end avancées.
 
 ---
+## 🧰 Stack Technique
 
-## 🧰 Stack technique
+### 🖥️ Langages & Frameworks
 
-### Langages & Frameworks
-- <img src="https://skillicons.dev/icons?i=java" width="20"/> Java / <img src="https://skillicons.dev/icons?i=spring" width="20"/> Spring Boot / <img src="https://skillicons.dev/icons?i=spring" width="20"/> Spring Security / JSP / WildFly
-- <img src="https://skillicons.dev/icons?i=php" width="20"/> PHP / <img src="https://skillicons.dev/icons?i=laravel" width="20"/> Laravel / <img src="https://skillicons.dev/icons?i=livewire" width="20"/> Livewire / <img src="https://skillicons.dev/icons?i=codeigniter" width="20"/> CodeIgniter 3
-- <img src="https://skillicons.dev/icons?i=cs" width="20"/> C# / <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> .NET Core / <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> ASP.NET
-- <img src="https://skillicons.dev/icons?i=js" width="20"/> JavaScript / <img src="https://skillicons.dev/icons?i=vue" width="20"/> Vue.js / <img src="https://skillicons.dev/icons?i=react" width="20"/> React
-- <img src="https://skillicons.dev/icons?i=python" width="20"/> Framework Frappe Python
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white)
+![WildFly](https://img.shields.io/badge/WildFly-000000?style=flat&logo=wildfly&logoColor=white)
 
-### Web & API
-- **Frontend** : <img src="https://skillicons.dev/icons?i=vue" width="20"/> Vue.js, <img src="https://skillicons.dev/icons?i=react" width="20"/> React, <img src="https://skillicons.dev/icons?i=html" width="20"/> HTML5, <img src="https://skillicons.dev/icons?i=css" width="20"/> CSS3
-- **Backend** : <img src="https://skillicons.dev/icons?i=laravel" width="20"/> Laravel, <img src="https://skillicons.dev/icons?i=spring" width="20"/> Spring Boot, <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> .NET
-- **API** : RESTful, JWT, sécurisation middleware
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E4E4E?style=flat)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
-### Base de données
-- <img src="https://skillicons.dev/icons?i=mysql" width="20"/> MySQL, <img src="https://skillicons.dev/icons?i=postgresql" width="20"/> PostgreSQL, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="20"/> Oracle
-- Modélisation, requêtes SQL optimisées
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=dotnet&logoColor=white)
 
-### DevOps & outils
-- <img src="https://skillicons.dev/icons?i=docker" width="20"/> Docker, <img src="https://skillicons.dev/icons?i=git" width="20"/> Git, <img src="https://skillicons.dev/icons?i=github" width="20"/> GitHub, <img src="https://skillicons.dev/icons?i=firebase" width="20"/> Firebase
-- **IDE** : <img src="https://skillicons.dev/icons?i=vscode" width="20"/> VS Code, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="20"/> Apache NetBeans
-- **Systèmes** : <img src="https://skillicons.dev/icons?i=linux" width="20"/> Linux (<img src="https://skillicons.dev/icons?i=ubuntu" width="20"/> Ubuntu), <img src="https://skillicons.dev/icons?i=windows" width="20"/> Windows
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+![Frappe](https://img.shields.io/badge/Frappe_Framework-1E1E1E?style=flat&logo=python&logoColor=white)
 
 ---
+
+### 🌐 Web & API
+
+**Frontend** :  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+**Backend** :  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+
+**API** : RESTful, JWT, sécurisation via middleware
+
+---
+
+### 🗃️ Base de données
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+Modélisation, requêtes SQL optimisées
+
+---
+
+### ⚙️ DevOps & Outils
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**IDE** :  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+
+**Systèmes** :  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
 
 ## 🚧 Projets en cours
 
