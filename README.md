@@ -13,18 +13,18 @@
 
 ---
 
-## 👨‍💻 À propos
+## 👨‍💻 About
 
-Développeur fullstack junior actuellement en 3ᵉ année du parcours **Développement Informatique** à l’**IT University Madagascar**.
+Junior full-stack developer currently in his third year of the **IT Development** program at **IT University Madagascar**.
 
-Je suis passionné par la création de solutions logicielles modernes et par l'exploration des technologies émergentes. Je combine apprentissage rigoureux et expérimentation concrète dans des projets web et API sécurisées.
+I am passionate about building modern software solutions and exploring emerging technologies. I combine rigorous learning with hands-on experimentation in web projects and secure APIs.
 
-🎯 **Objectif actuel** : maîtriser les architectures modernes, améliorer la sécurité des applications et monter en compétence sur les technologies back-end avancées.
+🎯 **Current goal**: master modern architectures, improve application security, and develop skills in advanced back-end technologies.
 
 ---
-## 🧰 Stack Technique
+## 🧰 Technical Stack
 
-### 🖥️ Langages & Frameworks
+### 🖥️ Languages ​​& Frameworks
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -49,24 +49,24 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 
 ---
 
-### 🌐 Web, API & Sécurité
+### 🌐 Web, API & Security
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
-- RESTful API, middlewares sécurisés, authentification JWT
+- RESTful API, secure middleware, JWT authentication
 
 ---
 
-### 🗃️ Bases de données
+### 🗃️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-- Conception de schémas, modélisation relationnelle, requêtes SQL optimisées
+- Schema design, relational modeling, optimized SQL queries
 
 ---
 
@@ -90,30 +90,29 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 ---
 
 
-## 🚧 Projets en cours
+## 🚧 Current Projects
 
-- Système de gestion de devis (Vue.js + SpringBoot + APi Rest + PostgreSQL)
-- Système de gestion budgétaire en temps réel (Livewire + Laravel + MySQL)
-- Site web Vitrine Agence de Voyage (React JS + Spring Boot)
-
+- Quote Management System (Vue.js + SpringBoot + API Rest + PostgreSQL)
+- Real-time Budget Management System (Livewire + Laravel + MySQL)
+- Travel Agency Showcase Website (React JS + Spring Boot)
+- 
 ---
 
-## 📚 En cours d’apprentissage
+## 📚 Currently learning
 
-### En approfondissement :
-- Spring Boot (sécurité, microservices)
-- .NET avancé & C#
-- Sécurisation des APIs (JWT, RBAC)
-- CI/CD & déploiement avec Docker
+### In-depth:
+- Spring Boot (security, microservices)
+- Advanced .NET & C#
+- API security (JWT, RBAC)
+- CI/CD & deployment with Docker
 
-### En exploration :
-- Cloud (GCP, Firebase,Google CLoud console)
-- Architecture orientée services (Clean Architecture)
-- TDD et tests automatisés
-
+### Exploring:
+- Cloud (GCP, Firebase, Google Cloud console)
+- Service-oriented architecture (Clean Architecture)
+- TDD and automated testing
 ---
 
-## 📈 Statistiques GitHub
+## 📈 GitHub Statistics
 
 <div align="center">
   
@@ -137,11 +136,11 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
 </div>
 
 
-## 📊 Activité GitHub
+## 📊 GitHub Activity
 
 [![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=antsamadagascar&bg_color=0d1117&color=ffffff&line=2b5797&point=48cae4&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📬 Me contacter
+## 📬 Contact me
 
 <div align="center">
   <a href="mailto:antsamadagascar@gmail.com">
@@ -162,4 +161,4 @@ Je suis passionné par la création de solutions logicielles modernes et par l'e
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5797,100:1e3c72&height=120&section=footer" />
 </div>
 
-<p align="center"><em>Ouvert aux opportunités de stage, aux projets open source ou à des échanges techniques enrichissants.</em></p>
+<p align="center"><em>Open to internship opportunities, open source projects, or enriching technical exchanges.</em></p>
