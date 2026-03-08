@@ -90,14 +90,6 @@ I am passionate about building modern software solutions and exploring emerging 
 ---
 
 
-## 🚧 Current Projects
-
-- Quote Management System (Vue.js + SpringBoot + API Rest + PostgreSQL)
-- Real-time Budget Management System (Livewire + Laravel + MySQL)
-- Travel Agency Showcase Website (React JS + Spring Boot)
-- 
----
-
 ## 📚 Currently learning
 
 ### In-depth:
