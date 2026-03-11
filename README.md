@@ -94,7 +94,6 @@ I am passionate about building modern software solutions and exploring emerging 
 
 ### In-depth:
 - Spring Boot (security, microservices)
-- Advanced .NET & C#
 - API security (JWT, RBAC)
 - CI/CD & deployment with Docker
 
