@@ -10,7 +10,7 @@
 
 I write code for a living, but what I've learned is that the code itself is rarely the point. What counts is whether the thing helps someone do their job, and whether it still works six months later when someone else has to touch it.
 
-So I try to understand the problem first, keep the solution simple, and not overbuild. I work mostly with Java/Spring Boot and PHP/Laravel, on top of PostgreSQL, MySQL or Oracle, and I use Docker for deployment.
+So I try to understand the problem first, keep the solution simple, and not overbuild. I work mostly with Java/Spring Boot and PHP/Laravel, on top of PostgreSQL, MySQL or Oracle, and MongoDb.
 
 Right now I'm doing a Master in AI and Big Data at IT University (with ESTIA), next to my own projects.
 
